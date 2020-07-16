@@ -6,8 +6,8 @@
 		blogging about technology and personal projects at <a href="https://30c27b.com/">30c27b.com</a>.<br>
 		<br>
 		<br>
-		<a href="https://linkedin.com/in/antoine-coulon"><img src="https://gist.githubusercontent.com/30c27b/9f06b31ab5118efb1676965e5864b45a/raw/3651898b26d68eff413c7f6f5a6ce6ab900d7145/linkedin.svg" height=32" width=32"></a>
-		<a href="https://twitter.com/30c27b"><img src="https://gist.githubusercontent.com/30c27b/8b431af06262d7214d71e4283dc2a5b3/raw/ee6217b8846320840241e4ef83d2e51b03c9a03d/twitter.svg" height=32" width=32"></a>
-		<a href="https://instagram.com/30c27b"><img src="https://gist.githubusercontent.com/30c27b/95dd9642223c170c50dd80b70b2d0379/raw/f35df6678f7c855b10bab845b051855944b3733d/instagram.svg" height=32" width=32"></a>
+		<a href="https://linkedin.com/in/antoine-coulon"><img src="https://gist.githubusercontent.com/30c27b/c1b99497c76500aa53c29c820f962594/raw/35935aa4d9d4893843c7b68bf0e519e98ab576ba/in.svg" height=32" width=32"></a>
+		<a href="https://twitter.com/30c27b"><img src="https://gist.githubusercontent.com/30c27b/895f46d692914e28c23274c19215020b/raw/531d867cf8dfa79353dfff596a2488213f05517f/twt.svg" height=32" width=32"></a>
+		<a href="https://instagram.com/30c27b"><img src="https://gist.githubusercontent.com/30c27b/c64bad717b1997eb7f7379349c612ff8/raw/b0aa81f5ae19dbbefcec6e48f04f7e429f0d17d6/ig.svg" height=32" width=32"></a>
 	</samp>
 </div>
