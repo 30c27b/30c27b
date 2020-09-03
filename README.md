@@ -4,5 +4,5 @@
 	<br>
 	my personal website is at <a href="https://30c27b.com/">30c27b.com</a>.<br>
 	<br>
-	pgp pubkey: <a href="https://30c27b.com/key.asc"><code>0xE6765B3172731FCF</code></a>
+	pgp pubkey: <a href="https://30c27b.com/pubkey.asc"><code>0xE6765B3172731FCF</code></a>
 </samp>
