@@ -1,9 +1,8 @@
-<samp>
-	Antoine '30c27b' Coulon, computer science student at <a href="https://s19.be/">19</a>.<br />
-	currently learning cryptography.<br />
-	<br />
-	My personal website is <a href="https://30c27b.com/">30c27b.com</a>.<br />
-	<br>
-	PGP fingerprint : <code>0xE6765B3172731FCF</code><br />
-	Pubkey available <a href="https://30c27b.com/pubkey.asc">here</a> or on most keyservers.
-</samp>
+<pre>
+Antoine '30c27b' Coulon
+WEB  <a href="https://www.30c27b.com">www.30c27b.com</a>
+MAIL <a href="mailto:antoine@30c27b.com">antoine@30c27b.com</a>
+GH   <a href="https://github.com/30c27b">github.com/30c27b</a>
+TWT  <a href="https://twitter.com/30c27b">twitter.com/30c27b</a>
+PGP  <a href="https://30c27b.com/pubkey.asc">0xE6765B3172731FCF</a>
+</pre>
